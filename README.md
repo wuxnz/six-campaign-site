@@ -24,4 +24,4 @@ npm start
 
 | Landing Section | Features and Servers | FAQ and Footer |
 |-----------------|----------------------|----------------|
-| <img src="Landing.png" width="300" /> | <img src="FeaturesAndServers.png" width="300" /> | <img src="FAQAndFooter.png" width="300" /> |
+| <img src="screenshots/Landing.png" width="300" /> | <img src="screenshots/FeaturesAndServers.png" width="300" /> | <img src="screenshots/FAQAndFooter.png" width="300" /> |
