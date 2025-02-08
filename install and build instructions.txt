@@ -1,0 +1,27 @@
+# You need node 18 and yarn to build and run the site
+
+# Dev Instructions (for testing and development):
+
+1. Install nodejs 18
+2. Make sure node is added to your path
+3. Run "npm install yarn -g" as admin in your terminal
+4. Go to root of the code (should be where this file is).
+6. Run "yarn" (not as admin). # Might take a while dont worry
+7. Run "yarn start" (not as admin) and wait for it to finish
+8. With that running go to http://localhost:3000 to see the site.
+
+
+# Build Instructions (for pushing to production/putting the site online):
+
+1. Install nodejs 18
+2. Make sure node is added to your path
+3. Run "npm install yarn -g" as admin in your terminal
+4. Go to root of the code (should be where this file is).
+6. Run "yarn" (not as admin). # Might take a while dont worry
+7. Run "yarn start" (not as admin) and wait for it to finish
+8. With that running go to http://localhost:3000 to see the site.
+9. Edit the file "src/config.js" to change the site
+10. Once you have it the way you like go to sep 11
+11. Press Ctrl and C in the terminal with step 7 running to stop it
+12. Run "yarn build" not as admin from the folder with this file in it
+13. The files you need to host are in the "build" directory.
